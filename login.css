@@ -1,0 +1,14 @@
+body {
+  background-color: #ecf0f1;
+}
+.container img {
+    display: block;
+    margin: 0px auto 5%;
+    height: 91px;
+}
+.grow:hover
+{
+        -webkit-transform: scale(1.3);
+        -ms-transform: scale(1.3);
+        transform: scale(1.3);
+}
